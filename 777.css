@@ -1,0 +1,97 @@
+h1{   
+    text-align: center;
+
+
+
+}
+.lol{  
+
+     text-align: center;
+    background-color: rgb(244, 244, 248);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+   
+    
+   
+}
+.box{
+
+    text-align: center;
+    background-color: rgb(244, 244, 248);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+
+
+
+
+}
+.card{
+
+ background-color: rgb(230, 230, 238);
+  
+   
+    margin: 20px auto;
+    border-radius: 10px;
+
+
+}
+.container{
+    display:flex;
+    gap: 100px;;
+    .container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    height: 500;
+    size: large;
+padding: 30px;}
+}
+
+.card {
+    background: rgba(76, 255, 5, 0.877);
+    border: 2px solid #d6da08;
+    border-radius: 10px;
+    padding: 30px;
+    width: 300px;
+    text-align: center;
+    background-color: rgb(116, 239, 255);
+  
+   
+    margin: 20px auto;
+    border-radius: 20px;
+
+}
+
+
+div{
+     font-family: Arial, Helvetica, sans-serif;
+     color: blue;
+     size: xlarge;
+
+
+
+}
+body{
+    background-color: rgb(58, 226, 43);
+    
+
+
+
+
+
+}
+p{
+
+    column-rule-color: aqua;
+    text-align: center;
+    background-color: rgb(244, 244, 248);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+   
+
+
+}
